@@ -1,1 +1,7 @@
-
+Seeed Studio XIAO RP2040 ,            1
+MX-compatible mechanical switches ,   4
+MX keycaps ,                          4
+EC11 rotary encoder ,                 1  
+Encoder knob ,                        1
+0.96" SSD1306 OLED (128×64, I2C) ,    1
+USB-C cable ,                         1

@@ -5,7 +5,7 @@ Its a accessory keypad made for all pourpuss use like coding, 3D Modeling, PCB D
 
 ##
 <p align="center">
-  <img src="png/TXJ_img.png" alt="TXJ WebOS">
+  <img src="pcb.webp" alt="TXJ WebOS">
 </p>
 
 

@@ -5,7 +5,7 @@ A custom macro keypad designed for all your productivity and creative needs—wh
 ---
 
 <p align="center">
-  <img src="assets/PCB.webp" alt="Hakpad PCB Layout">
+  <img src="assets/pcb.webp" alt="Hakpad PCB Layout">
 </p>
 
 ---

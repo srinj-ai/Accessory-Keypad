@@ -8,6 +8,18 @@ A custom macro keypad designed for all your productivity and creative needs—wh
   <img src="Assets/pcb.webp" alt="Hakpad PCB Layout">
 </p>
 
+
+
+<p align="center">
+  <img src="Assets/case1.png" alt="Hakpad PCB Layout">
+</p>
+
+
+
+<p align="center">
+  <img src="Assets/case2.png" alt="Hakpad PCB Layout">
+</p>
+
 ---
 
 ## Features
